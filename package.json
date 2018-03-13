@@ -11,5 +11,8 @@
     "url": "https://github.com/tlystad24/helloify/"
   },
   "author": "Tobias Lystad",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2"
+  }
 }
