@@ -1,0 +1,11 @@
+{
+  "name": "helloify",
+  "version": "1.1.0",
+  "description": "Simple package to try npm publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "author": "Tobias Lystad",
+  "license": "ISC"
+}
