@@ -1,6 +1,6 @@
 {
   "name": "helloify",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Simple package to try npm publishing",
   "main": "index.js",
   "scripts": {
