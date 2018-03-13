@@ -6,9 +6,9 @@
   "scripts": {
     "test": "node index.test.js"
   },
-  "repository" :
-  { "type" : "git"
-  , "url" : "https://github.com/tlystad24/helloify/"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tlystad24/helloify/"
   },
   "author": "Tobias Lystad",
   "license": "ISC"
