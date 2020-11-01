@@ -11,6 +11,6 @@ Require package and call function:
 ```javascript
 
 	let hello = require('helloify');
-	hello('User'); // Hello User
+	hello('User'); // >> Hello User
 ```
 
