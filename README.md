@@ -1,5 +1,5 @@
 # Helloify
-> Generate greetings
+> Generate greetings in random languages
 
 ## Installation
 
@@ -9,8 +9,7 @@
 Require package and call function:
 
 ```javascript
-
 	let hello = require('helloify');
-	hello('User'); // Hello User
+	hello('Vladimir'); // > Привет Vladimir! You should study more russian 😊👍
 ```
 
